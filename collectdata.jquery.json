@@ -1,0 +1,23 @@
+{
+    "name": "collectdata"
+    , "version": "1.0.1"
+    , "title": "collectdata.js"
+    , "author": {
+        "name": "Jason Edelman"
+        , "url": "http://jasonedelman.com"
+    }
+    , "licenses": [
+        {
+            "type": "MIT"
+            , "url": "http://opensource.org/licenses/MIT"
+        }
+    ]
+    , "dependencies": {
+        "jquery": ">=1.0"
+    }
+    , "description": "Pass in inputs, extract formatted data."
+    , "keywords": ["inputs", "data"]
+    , "homepage": "https://github.com/ultimatedelman/collectdata"
+    , "docs": "https://github.com/ultimatedelman/collectdata"
+    , "demo": "http://jsfiddle.net/edelman/2VKF9/"
+}
